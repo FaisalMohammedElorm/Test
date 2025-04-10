@@ -1,13 +1,12 @@
 import React from 'react'
-import Meals from './components/Meals'
-import Calculator from './components/Calculator'
-import ToggleBackground from './components/ToggleBackground'
+import Testimonials from './components/Testimonials'
 
 const App = () => {
   return (
     <div>
       
-      <ToggleBackground />
+      <Testimonials />
+
       
     </div>
   )
